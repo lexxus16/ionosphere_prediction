@@ -30,7 +30,7 @@ Random Forest Classifier is an ensemble learning method known for its robustness
 #### Metrics Score
 
 <p align="center">
-  <img src="https://github.com/lexxus16/ionosphere_prediction/assets/69308391/32358a5c-47bd-41ba-9374-679f2a46af97" alt="Alt Text" width="430"/>
+  <img src="https://github.com/lexxus16/ionosphere_prediction/assets/69308391/32358a5c-47bd-41ba-9374-679f2a46af97" alt="Alt Text" width="460"/>
 </p>
 
 ### Logistic Regression
